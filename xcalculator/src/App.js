@@ -40,6 +40,7 @@ function App() {
 
   return (
     <div className="calculator">
+      <h1> React Calculator</h1>
       {/* Input field for displaying expression */}
       <input 
         type="text" 
